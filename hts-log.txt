@@ -1,0 +1,288 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Apr 2018 11:44:50 at https://abdulmateen.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://abdulmateen.net -O1 "C:\Users\lenovo\Desktop\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:46:09	Error: 	"Bad Request" (400) at link https://abdulmateen.net/wp-admin/admin-ajax.php (from https://abdulmateen.net/)
+11:46:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/images/stripes/stripes_3_b.png (from https://abdulmateen.net/)
+11:46:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/)
+11:46:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/OneSignalSDKWorker.js.php (from https://abdulmateen.net/)
+11:46:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/peerlogics.com (from https://abdulmateen.net/)
+11:46:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/theepresence.com (from https://abdulmateen.net/)
+11:49:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/www.globaloid.com (from https://abdulmateen.net/)
+11:49:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/themes/betheme/js/menu.js?ver=15 (from https://abdulmateen.net/)
+11:49:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/GET (from https://abdulmateen.net/wp-content/plugins/ParticleJs-WP-Plugin-master//includes/particles.js?ver=4.9.3)
+11:49:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/Error pJS - No image.src (from https://abdulmateen.net/wp-content/plugins/ParticleJs-WP-Plugin-master//includes/particles.js?ver=4.9.3)
+11:50:04	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/images/stripes/stripes_3_b.png (from https://abdulmateen.net/portfolio-types/graphic-design/)
+11:50:04	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/graphic-design/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-types/graphic-design/)
+11:50:04	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/graphic-design/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-types/graphic-design/)
+11:50:05	Warning: 	Moved Permanently for https://abdulmateen.net/theepresence-flayer/
+11:50:05	Warning: 	File has moved from https://abdulmateen.net/theepresence-flayer/ to https://abdulmateen.net/portfolio-item/theepresence-flayer/
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/logo-design/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-types/logo-design/)
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/logo-design/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-types/logo-design/)
+11:50:05	Warning: 	Moved Permanently for https://abdulmateen.net/logo-folio-2016-2017-abdul-mateen/
+11:50:05	Warning: 	File has moved from https://abdulmateen.net/logo-folio-2016-2017-abdul-mateen/ to https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/web-design/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-types/web-design/)
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/web-design/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-types/web-design/)
+11:50:05	Warning: 	Moved Permanently for https://abdulmateen.net/companies-incorporated-website/
+11:50:05	Warning: 	File has moved from https://abdulmateen.net/companies-incorporated-website/ to https://abdulmateen.net/portfolio-item/companies-incorporated-website/
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/web-development/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-types/web-development/)
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-types/web-development/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-types/web-development/)
+11:50:05	Warning: 	Moved Permanently for https://abdulmateen.net/infininty-mining-pakistan/
+11:50:05	Warning: 	File has moved from https://abdulmateen.net/infininty-mining-pakistan/ to https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/italian-restaurant/feed/ (from https://abdulmateen.net/portfolio-item/italian-restaurant/)
+11:50:05	Warning: 	Moved Permanently for https://abdulmateen.net/?p=33
+11:50:05	Warning: 	File has moved from https://abdulmateen.net/?p=33 to https://abdulmateen.net/portfolio-item/italian-restaurant/
+11:50:05	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/images/stripes/stripes_3_b.png (from https://abdulmateen.net/portfolio-item/italian-restaurant/)
+11:50:06	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/italian-restaurant/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/italian-restaurant/)
+11:50:06	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/italian-restaurant/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/italian-restaurant/)
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/clinical-psychologist/feed/ (from https://abdulmateen.net/portfolio-item/clinical-psychologist/)
+11:50:09	Warning: 	Moved Permanently for https://abdulmateen.net/?p=232
+11:50:09	Warning: 	File has moved from https://abdulmateen.net/?p=232 to https://abdulmateen.net/portfolio-item/clinical-psychologist/
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/clinical-psychologist/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/clinical-psychologist/)
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/clinical-psychologist/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/clinical-psychologist/)
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/all-in-one-shop/feed/ (from https://abdulmateen.net/portfolio-item/all-in-one-shop/)
+11:50:09	Warning: 	Moved Permanently for https://abdulmateen.net/?p=28
+11:50:09	Warning: 	File has moved from https://abdulmateen.net/?p=28 to https://abdulmateen.net/portfolio-item/all-in-one-shop/
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/all-in-one-shop/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/all-in-one-shop/)
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/all-in-one-shop/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/all-in-one-shop/)
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/companies-incorporated-website/feed/ (from https://abdulmateen.net/portfolio-item/companies-incorporated-website/)
+11:50:09	Warning: 	Moved Permanently for https://abdulmateen.net/?p=239
+11:50:09	Warning: 	File has moved from https://abdulmateen.net/?p=239 to https://abdulmateen.net/portfolio-item/companies-incorporated-website/
+11:50:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/companies-incorporated-website/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/companies-incorporated-website/)
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/companies-incorporated-website/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/companies-incorporated-website/)
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/travel-brochure/feed/ (from https://abdulmateen.net/portfolio-item/travel-brochure/)
+11:50:10	Warning: 	Moved Permanently for https://abdulmateen.net/?p=112
+11:50:10	Warning: 	File has moved from https://abdulmateen.net/?p=112 to https://abdulmateen.net/portfolio-item/travel-brochure/
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/travel-brochure/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/travel-brochure/)
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/travel-brochure/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/travel-brochure/)
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/personal-identity/feed/ (from https://abdulmateen.net/portfolio-item/personal-identity/)
+11:50:10	Warning: 	Moved Permanently for https://abdulmateen.net/?p=124
+11:50:10	Warning: 	File has moved from https://abdulmateen.net/?p=124 to https://abdulmateen.net/portfolio-item/personal-identity/
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/personal-identity/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/personal-identity/)
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/personal-identity/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/personal-identity/)
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/feed/ (from https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/)
+11:50:10	Warning: 	Moved Permanently for https://abdulmateen.net/?p=235
+11:50:10	Warning: 	File has moved from https://abdulmateen.net/?p=235 to https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/
+11:50:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/)
+11:50:11	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/infininty-mining-pakistan/)
+11:50:39	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/manipulation-banana-vs-carrot/feed/ (from https://abdulmateen.net/portfolio-item/manipulation-banana-vs-carrot/)
+11:50:39	Warning: 	Moved Permanently for https://abdulmateen.net/?p=94
+11:50:39	Warning: 	File has moved from https://abdulmateen.net/?p=94 to https://abdulmateen.net/portfolio-item/manipulation-banana-vs-carrot/
+11:50:39	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/manipulation-banana-vs-carrot/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/manipulation-banana-vs-carrot/)
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/manipulation-banana-vs-carrot/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/manipulation-banana-vs-carrot/)
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/phtotgraphy/feed/ (from https://abdulmateen.net/portfolio-item/phtotgraphy/)
+11:50:40	Warning: 	Moved Permanently for https://abdulmateen.net/?p=37
+11:50:40	Warning: 	File has moved from https://abdulmateen.net/?p=37 to https://abdulmateen.net/portfolio-item/phtotgraphy/
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/phtotgraphy/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/phtotgraphy/)
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/phtotgraphy/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/phtotgraphy/)
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/theepresence-flayer/feed/ (from https://abdulmateen.net/portfolio-item/theepresence-flayer/)
+11:50:40	Warning: 	Moved Permanently for https://abdulmateen.net/?p=227
+11:50:40	Warning: 	File has moved from https://abdulmateen.net/?p=227 to https://abdulmateen.net/portfolio-item/theepresence-flayer/
+11:50:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fabdulmateen.net%2Fportfolio-item%2Ftheepresence-flayer%2F&format=xml (from https://abdulmateen.net/portfolio-item/theepresence-flayer/)
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/theepresence-flayer/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/theepresence-flayer/)
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/theepresence-flayer/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/theepresence-flayer/)
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/kutab-khanah/feed/ (from https://abdulmateen.net/portfolio-item/kutab-khanah/)
+11:50:40	Warning: 	Moved Permanently for https://abdulmateen.net/?p=31
+11:50:40	Warning: 	File has moved from https://abdulmateen.net/?p=31 to https://abdulmateen.net/portfolio-item/kutab-khanah/
+11:50:40	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/kutab-khanah/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/kutab-khanah/)
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/kutab-khanah/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/kutab-khanah/)
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/black-bull-rc/feed/ (from https://abdulmateen.net/portfolio-item/black-bull-rc/)
+11:50:41	Warning: 	Moved Permanently for https://abdulmateen.net/?p=135
+11:50:41	Warning: 	File has moved from https://abdulmateen.net/?p=135 to https://abdulmateen.net/portfolio-item/black-bull-rc/
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/black-bull-rc/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/black-bull-rc/)
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/black-bull-rc/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/black-bull-rc/)
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/blossom-artist/feed/ (from https://abdulmateen.net/portfolio-item/blossom-artist/)
+11:50:41	Warning: 	Moved Permanently for https://abdulmateen.net/?p=42
+11:50:41	Warning: 	File has moved from https://abdulmateen.net/?p=42 to https://abdulmateen.net/portfolio-item/blossom-artist/
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/blossom-artist/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/blossom-artist/)
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/blossom-artist/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/blossom-artist/)
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/columbia-hospice-care/feed/ (from https://abdulmateen.net/portfolio-item/columbia-hospice-care/)
+11:50:41	Warning: 	Moved Permanently for https://abdulmateen.net/?p=142
+11:50:41	Warning: 	File has moved from https://abdulmateen.net/?p=142 to https://abdulmateen.net/portfolio-item/columbia-hospice-care/
+11:50:41	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/columbia-hospice-care/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/columbia-hospice-care/)
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/columbia-hospice-care/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/columbia-hospice-care/)
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/feed/ (from https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/)
+11:50:42	Warning: 	Moved Permanently for https://abdulmateen.net/?p=196
+11:50:42	Warning: 	File has moved from https://abdulmateen.net/?p=196 to https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/)
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/logo-folio-2016-2017-abdul-mateen/)
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/theepresence/feed/ (from https://abdulmateen.net/portfolio-item/theepresence/)
+11:50:42	Warning: 	Moved Permanently for https://abdulmateen.net/?p=82
+11:50:42	Warning: 	File has moved from https://abdulmateen.net/?p=82 to https://abdulmateen.net/portfolio-item/theepresence/
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/theepresence/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/theepresence/)
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/theepresence/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/theepresence/)
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/qazi-driving-school/feed/ (from https://abdulmateen.net/portfolio-item/qazi-driving-school/)
+11:50:42	Warning: 	Moved Permanently for https://abdulmateen.net/?p=86
+11:50:42	Warning: 	File has moved from https://abdulmateen.net/?p=86 to https://abdulmateen.net/portfolio-item/qazi-driving-school/
+11:50:42	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/qazi-driving-school/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/qazi-driving-school/)
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/qazi-driving-school/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/qazi-driving-school/)
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/renewable-resources/feed/ (from https://abdulmateen.net/portfolio-item/renewable-resources/)
+11:50:43	Warning: 	Moved Permanently for https://abdulmateen.net/?p=91
+11:50:43	Warning: 	File has moved from https://abdulmateen.net/?p=91 to https://abdulmateen.net/portfolio-item/renewable-resources/
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/renewable-resources/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/renewable-resources/)
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/renewable-resources/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/renewable-resources/)
+11:50:43	Warning: 	Moved Permanently for https://abdulmateen.net/?p=173
+11:50:43	Warning: 	File has moved from https://abdulmateen.net/?p=173 to https://abdulmateen.net/renewableresources/
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/renewableresources/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/renewableresources/)
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/renewableresources/OneSignalSDKWorker.js.php (from https://abdulmateen.net/renewableresources/)
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/hook-strawberry/feed/ (from https://abdulmateen.net/portfolio-item/hook-strawberry/)
+11:50:43	Warning: 	Moved Permanently for https://abdulmateen.net/?p=97
+11:50:43	Warning: 	File has moved from https://abdulmateen.net/?p=97 to https://abdulmateen.net/portfolio-item/hook-strawberry/
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/hook-strawberry/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/hook-strawberry/)
+11:50:43	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/hook-strawberry/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/hook-strawberry/)
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/pink-ribon/feed/ (from https://abdulmateen.net/portfolio-item/pink-ribon/)
+11:50:44	Warning: 	Moved Permanently for https://abdulmateen.net/?p=102
+11:50:44	Warning: 	File has moved from https://abdulmateen.net/?p=102 to https://abdulmateen.net/portfolio-item/pink-ribon/
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/pink-ribon/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/pink-ribon/)
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/pink-ribon/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/pink-ribon/)
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/peerlogics/feed/ (from https://abdulmateen.net/portfolio-item/peerlogics/)
+11:50:44	Warning: 	Moved Permanently for https://abdulmateen.net/?p=105
+11:50:44	Warning: 	File has moved from https://abdulmateen.net/?p=105 to https://abdulmateen.net/portfolio-item/peerlogics/
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/peerlogics/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/peerlogics/)
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/peerlogics/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/peerlogics/)
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/opioidology/feed/ (from https://abdulmateen.net/portfolio-item/opioidology/)
+11:50:44	Warning: 	Moved Permanently for https://abdulmateen.net/?p=115
+11:50:44	Warning: 	File has moved from https://abdulmateen.net/?p=115 to https://abdulmateen.net/portfolio-item/opioidology/
+11:50:44	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/opioidology/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/opioidology/)
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/opioidology/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/opioidology/)
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/bus-illustration/feed/ (from https://abdulmateen.net/portfolio-item/bus-illustration/)
+11:50:45	Warning: 	Moved Permanently for https://abdulmateen.net/?p=118
+11:50:45	Warning: 	File has moved from https://abdulmateen.net/?p=118 to https://abdulmateen.net/portfolio-item/bus-illustration/
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/bus-illustration/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/bus-illustration/)
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/bus-illustration/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/bus-illustration/)
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/technical-khan-ji/feed/ (from https://abdulmateen.net/portfolio-item/technical-khan-ji/)
+11:50:45	Warning: 	Moved Permanently for https://abdulmateen.net/?p=120
+11:50:45	Warning: 	File has moved from https://abdulmateen.net/?p=120 to https://abdulmateen.net/portfolio-item/technical-khan-ji/
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/technical-khan-ji/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/technical-khan-ji/)
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/technical-khan-ji/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/technical-khan-ji/)
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/bikini/feed/ (from https://abdulmateen.net/portfolio-item/bikini/)
+11:50:45	Warning: 	Moved Permanently for https://abdulmateen.net/?p=122
+11:50:45	Warning: 	File has moved from https://abdulmateen.net/?p=122 to https://abdulmateen.net/portfolio-item/bikini/
+11:50:45	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/bikini/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/bikini/)
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/bikini/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/bikini/)
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/14-august-pakistan/feed/ (from https://abdulmateen.net/portfolio-item/14-august-pakistan/)
+11:50:46	Warning: 	Moved Permanently for https://abdulmateen.net/?p=127
+11:50:46	Warning: 	File has moved from https://abdulmateen.net/?p=127 to https://abdulmateen.net/portfolio-item/14-august-pakistan/
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/14-august-pakistan/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/14-august-pakistan/)
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/14-august-pakistan/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/14-august-pakistan/)
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/islamabad-psychological-center/feed/ (from https://abdulmateen.net/portfolio-item/islamabad-psychological-center/)
+11:50:46	Warning: 	Moved Permanently for https://abdulmateen.net/?p=148
+11:50:46	Warning: 	File has moved from https://abdulmateen.net/?p=148 to https://abdulmateen.net/portfolio-item/islamabad-psychological-center/
+11:50:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fabdulmateen.net%2Fportfolio-item%2Fislamabad-psychological-center%2F&format=xml (from https://abdulmateen.net/portfolio-item/islamabad-psychological-center/)
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/islamabad-psychological-center/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/islamabad-psychological-center/)
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/islamabad-psychological-center/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/islamabad-psychological-center/)
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/lorem-ipsum/feed/ (from https://abdulmateen.net/portfolio-item/lorem-ipsum/)
+11:50:46	Warning: 	Moved Permanently for https://abdulmateen.net/?p=151
+11:50:46	Warning: 	File has moved from https://abdulmateen.net/?p=151 to https://abdulmateen.net/portfolio-item/lorem-ipsum/
+11:50:46	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/lorem-ipsum/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/lorem-ipsum/)
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/lorem-ipsum/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/lorem-ipsum/)
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/code-roid/feed/ (from https://abdulmateen.net/portfolio-item/code-roid/)
+11:50:47	Warning: 	Moved Permanently for https://abdulmateen.net/?p=154
+11:50:47	Warning: 	File has moved from https://abdulmateen.net/?p=154 to https://abdulmateen.net/portfolio-item/code-roid/
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/code-roid/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/code-roid/)
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/code-roid/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/code-roid/)
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/lorem-ipsum-2/feed/ (from https://abdulmateen.net/portfolio-item/lorem-ipsum-2/)
+11:50:47	Warning: 	Moved Permanently for https://abdulmateen.net/?p=156
+11:50:47	Warning: 	File has moved from https://abdulmateen.net/?p=156 to https://abdulmateen.net/portfolio-item/lorem-ipsum-2/
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/lorem-ipsum-2/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/lorem-ipsum-2/)
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/lorem-ipsum-2/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/lorem-ipsum-2/)
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/nwih-logo/feed/ (from https://abdulmateen.net/portfolio-item/nwih-logo/)
+11:50:47	Warning: 	Moved Permanently for https://abdulmateen.net/?p=158
+11:50:47	Warning: 	File has moved from https://abdulmateen.net/?p=158 to https://abdulmateen.net/portfolio-item/nwih-logo/
+11:50:47	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/nwih-logo/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/nwih-logo/)
+11:50:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/nwih-logo/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/nwih-logo/)
+11:50:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/nwih/feed/ (from https://abdulmateen.net/portfolio-item/nwih/)
+11:50:48	Warning: 	Moved Permanently for https://abdulmateen.net/?p=160
+11:50:48	Warning: 	File has moved from https://abdulmateen.net/?p=160 to https://abdulmateen.net/portfolio-item/nwih/
+11:50:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/nwih/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/nwih/)
+11:50:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/nwih/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/nwih/)
+11:50:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/booking-diary/feed/ (from https://abdulmateen.net/portfolio-item/booking-diary/)
+11:50:48	Warning: 	Moved Permanently for https://abdulmateen.net/?p=163
+11:50:48	Warning: 	File has moved from https://abdulmateen.net/?p=163 to https://abdulmateen.net/portfolio-item/booking-diary/
+11:50:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/booking-diary/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/booking-diary/)
+11:50:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/booking-diary/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/booking-diary/)
+11:50:49	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/rent-hour-house/feed/ (from https://abdulmateen.net/portfolio-item/rent-hour-house/)
+11:50:49	Warning: 	Moved Permanently for https://abdulmateen.net/?p=166
+11:50:49	Warning: 	File has moved from https://abdulmateen.net/?p=166 to https://abdulmateen.net/portfolio-item/rent-hour-house/
+11:50:49	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/rent-hour-house/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/rent-hour-house/)
+11:50:49	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/rent-hour-house/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/rent-hour-house/)
+11:50:49	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/calculator/feed/ (from https://abdulmateen.net/portfolio-item/calculator/)
+11:50:50	Warning: 	Moved Permanently for https://abdulmateen.net/?p=168
+11:50:50	Warning: 	File has moved from https://abdulmateen.net/?p=168 to https://abdulmateen.net/portfolio-item/calculator/
+11:50:50	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/calculator/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/portfolio-item/calculator/)
+11:50:50	Error: 	"Not Found" (404) at link https://abdulmateen.net/portfolio-item/calculator/OneSignalSDKWorker.js.php (from https://abdulmateen.net/portfolio-item/calculator/)
+11:50:50	Error: 	"Not Found" (404) at link platform.twitter.com/widgets.js (from https://abdulmateen.net/wp-content/themes/betheme/js/plugins.js?ver=15)
+11:50:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/?DD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/?DA)
+11:50:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/?ND (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/)
+11:51:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/_autoindex/icons/folder.png (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/)
+11:51:17	Error: 	"Not Found" (404) at link https://abdulmateen.net/author/images/stripes/stripes_3_b.png (from https://abdulmateen.net/author/abdulmateen/)
+11:51:17	Error: 	"Not Found" (404) at link https://abdulmateen.net/author/abdulmateen/OneSignalSDKUpdaterWorker.js.php (from https://abdulmateen.net/author/abdulmateen/)
+11:51:17	Error: 	"Not Found" (404) at link https://abdulmateen.net/author/abdulmateen/OneSignalSDKWorker.js.php (from https://abdulmateen.net/author/abdulmateen/)
+11:51:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/bitcoin/images/prettyPhoto/default/sprite.png (from https://abdulmateen.net/bitcoin/css/prettyPhoto.css)
+11:51:18	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/contact.png (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:18	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/image_bg.png (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:18	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/map.jpg (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:18	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/search_icon.png (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:18	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/trend/bg.jpg (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:18	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/testimonial/bg.jpg (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:18	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/shipping/bg.jpg (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:19	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/brands/bg.jpg (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:19	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/images/newsletter/bg.jpg (from https://abdulmateen.net/bitcoin/css/main.css)
+11:51:27	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/Popover requires tooltip.js (from https://abdulmateen.net/bitcoin/js/bootstrap.min.js)
+11:51:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/bitcoin/youtu.be/ (from https://abdulmateen.net/bitcoin/js/jquery.prettyPhoto.js)
+11:51:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fabdulmateen.net%2Fportfolio-item%2Ftheepresence-flayer%2F&format=xml (from https://abdulmateen.net/portfolio-item/theepresence-flayer/)
+11:51:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fabdulmateen.net%2Fportfolio-item%2Fislamabad-psychological-center%2F&format=xml (from https://abdulmateen.net/portfolio-item/islamabad-psychological-center/)
+11:51:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/?SA)
+11:51:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/?DD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/?DA)
+11:51:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?ND (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/)
+11:51:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/ (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/)
+11:51:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/ (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/)
+11:51:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/config.php (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/)
+11:51:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/bitcoin/images/prettyPhoto/default/sprite.png (from https://abdulmateen.net/bitcoin/css/prettyPhoto.css)
+11:51:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/bitcoin/images/shop/risers/01.jpg (from https://abdulmateen.net/bitcoin/risers.html)
+11:51:48	Error: 	"Not Found" (404) at link https://abdulmateen.net/bitcoin/youtu.be/ (from https://abdulmateen.net/bitcoin/js/jquery.prettyPhoto.js)
+11:51:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?MD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?MA)
+11:51:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?SA)
+11:52:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?DD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?DA)
+11:52:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/icons.css (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/)
+11:52:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?DD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/?DA)
+11:52:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/?NA (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/?ND)
+11:52:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/?SA)
+11:53:09	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui/flags.png (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui.css)
+11:53:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui/icons.eot (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui.css)
+11:53:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui/icons.eot? (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui.css)
+11:53:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui/icons.woff2 (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui.css)
+11:53:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui/icons.woff (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui.css)
+11:53:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui/icons.ttf (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui.css)
+11:53:10	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui/icons.svg (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/semantic-ui.css)
+11:53:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/ (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/)
+11:53:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?MD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?MA)
+11:53:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?SA)
+11:53:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?DD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?DA)
+11:53:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?MD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?MA)
+11:53:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?SA)
+11:53:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/onesignal-font/?MD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/onesignal-font/?MA)
+11:53:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/onesignal-font/?DD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/onesignal-font/?DA)
+11:53:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/ (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/)
+11:53:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?SA)
+11:53:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/settings/?NA (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/settings/?ND)
+11:53:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/settings/?MD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/settings/?MA)
+11:53:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/?SA)
+11:53:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/e (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/semantic-ui.js)
+11:53:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?SA)
+11:53:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/onesignal-font/?DD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/onesignal-font/?DA)
+11:53:54	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/images/?SA)
+11:53:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/?SA)
+11:54:03	Error: 	"Not Found" (404) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/e (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/javascript/semantic-ui.js)
+11:54:03	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?SD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/css/lusitana/?SA)
+11:54:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/?ND (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/)
+11:54:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/?ND (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/)
+11:54:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/?MD (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/?MA)
+11:54:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/?ND (from https://abdulmateen.net/wp-content/plugins/onesignal-free-web-push-notifications/views/fonts/semantic-ui/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 16 seconds : 974 links scanned, 736 files written (64127206 bytes overall) [61206289 bytes received at 110083 bytes/sec], 18733674 bytes transferred using HTTP compression in 369 files, ratio 25%, 13.5 requests per connection
+(152 errors, 125 warnings, 0 messages)

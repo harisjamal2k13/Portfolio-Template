@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zotabox.com	TRUE	/	FALSE	1999999999	__cfduid	d344f81a5b04f9eae5c906fcd4d82d09d1524725114
+.onesignal.com	TRUE	/	FALSE	1999999999	__cfduid	d9e9b7ee79d40b4e1f5910487f1e490f71524725118
+.google.com	TRUE	/	FALSE	1999999999	NID	128=BzyEgqEkazTh8Y8GGOgrurFhSvVknSBjYVVFnxlhwA3n-fo-FXiMKkhJSSHrLVGCXT8ji1dk_j3SekcxgEQL9KUvyC1zHGps1qjB-mUgWTlR-7MQB9DOgm-VAxpEUqFn
+
